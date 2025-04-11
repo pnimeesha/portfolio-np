@@ -8,7 +8,7 @@
 ## **About Me**
 
 - I’m graduating in <strong>Summer 2025</strong> and actively looking for full-time opportunities as a <strong>Data Scientist</strong> or <strong>ML/AI Engineer.</strong>
-- 🚀 ** What I'm diving into these days:**
+- 🚀 **What I'm diving into these days:**
     - *Turning ML models into real-world applications (MLOps, deployment)*
     - *Cloud Platforms – AWS and GCP for scalable ML*
     - *Data Engineering – Data modelling, building robust data pipelines & architectures*
