@@ -1,6 +1,6 @@
 # **Aspiring ML Engineer | Data Enthusiast | 2025 Grad**
 
-#### </a> | <a href="linkedin.com/in/nimeesha-pachipulusu-222bb3168" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/pnimeesha" target="_blank"><b>GitHub</b></a> | nimeesha186@gmail.com
+#### <a href="linkedin.com/in/nimeesha-pachipulusu-222bb3168" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/pnimeesha" target="_blank"><b>GitHub</b></a> | nimeesha186@gmail.com
 
 **![](https://komarev.com/ghpvc/?username=pnimeesha&label=PROFILE+VIEWS)**
 
@@ -28,10 +28,11 @@
 
 
 ## **Work Experience**
+
 <details>
   <summary><h3><a href="https://www.mpg.de/914864/softwaresysteme-kaiserslautern" target="_blank">MPI-SWS</a> | <strong>Machine Learning Researcher - Student Assistant</strong> | <strong>Oct 2024 – Present</strong></h3></summary>
   <div>
-    <p><strong>Skills:</strong> <code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>Scipy</code>, <code>scikit-learn</code></p>, <code>Gaussian Process</code>,
+    <p><strong>Skills:</strong> <code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>Scipy</code>, <code>scikit-learn</code>, <code>Gaussian Process</code></p>
     <ul>
       <li><strong>Implemented and integrated key methods</strong> for a <strong>Binary Tree Gaussian Process (BTGP)</strong> into scikit-learn’s Gaussian Process module, enhancing its functionality for safety-critical AI systems.</li>
       <li>Designed <strong>UML diagrams</strong> to model the BTGP structure and facilitate seamless integration.</li>
@@ -42,7 +43,7 @@
 <details>
   <summary><h3><a href="https://www.dfki.de/web" target="_blank">DFKI</a> | <strong>ML/AI Researcher - Student Assistant</strong> | <strong>Aug 2024 – Jan 2025</strong></h3></summary>
   <div>
-    <p><strong>Skills:</strong> <code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>Cluster(Slurm)</code>, <code>PyTorch</code></p>, <code>Generative AI</code>, <code>Anomaly Detection</code>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>Cluster (Slurm)</code>, <code>PyTorch</code>, <code>Generative AI</code>, <code>Anomaly Detection</code></p>
     <ul>
       <li>Researched and created a POC using <strong>diffusion models</strong> to generate various types of synthetic outliers in tabular data, enhancing the robustness of anomaly detection and machine learning models.</li>
     </ul>
@@ -50,9 +51,9 @@
 </details>
 
 <details>
-  <summary><h3><a href="https://www.kit.edu/" target="_blank">KIT</a> | <strong> Data Analyst & Software Development - Student Assistant</strong> | <strong>Oct 2021 – Mar 2024</strong></h3></summary>
+  <summary><h3><a href="https://www.kit.edu/" target="_blank">KIT</a> | <strong>Data Analyst & Software Development - Student Assistant</strong> | <strong>Oct 2021 – Mar 2024</strong></h3></summary>
   <div>
-    <p><strong>Skills:</strong> <code>Python</code>, <code>Java</code>, <code>Numpy</code>, <code>matplotlib</code></p>, <code>Seaborn</code>, <code>Backend developement</code>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>Java</code>, <code>Numpy</code>, <code>matplotlib</code>, <code>Seaborn</code>, <code>Backend development</code></p>
     <ul>
       <li>Developed an interactive dashboard using Python libraries to analyze user data, derive insights, and support data-driven decision-making.</li>
       <li>Contributed to the development of a Java-based tool by designing, implementing, and integrating new methods while ensuring functionality through rigorous testing.</li>
@@ -61,9 +62,9 @@
 </details>
 
 <details>
-  <summary><h3><a href="https://www.linkedin.com/company/infosys/" target="_blank">Infosys</a> | <strong> System Engineer</strong> | <strong>Sept 2019 – Feb 2021</strong></h3></summary>
+  <summary><h3><a href="https://www.linkedin.com/company/infosys/" target="_blank">Infosys</a> | <strong>System Engineer</strong> | <strong>Sept 2019 – Feb 2021</strong></h3></summary>
   <div>
-    <p><strong>Skills:</strong> <code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>SQL</code>, <code>Version Control</code>, <code>Automation Anywhere</code></p>, <code>AWS</code>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>SQL</code>, <code>Version Control</code>, <code>Automation Anywhere</code>, <code>AWS</code></p>
     <ul>
       <li>Automated monthly usage report generation using Python Pandas Library, reducing report generation time from 3 hours to a single-click process, achieving a remarkable 20%-time savings per month and ensuring timely report delivery.</li>
       <li>Managed and maintained SQL database, ensuring data accuracy, security, and optimal performance. Proficient in writing complex SQL queries to extract, transform, and analyze data (ETL).</li>
@@ -73,12 +74,12 @@
 </details>
 
 <details>
-  <summary><h3><a href="https://www.linkedin.com/company/infosys/" target="_blank">Infosys</a> | <strong> System Developement Intern</strong> | <strong>Jan – May 2019</strong></h3></summary>
+  <summary><h3><a href="https://www.linkedin.com/company/infosys/" target="_blank">Infosys</a> | <strong>System Development Intern</strong> | <strong>Jan – May 2019</strong></h3></summary>
   <div>
-    <p><strong>Skills:</strong> <code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>SQL</code>, <code>Version Control</code>, <code>Automation Anywhere</code></p>, <code>AWS</code>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>SQL</code>, <code>Version Control</code>, <code>Automation Anywhere</code>, <code>AWS</code></p>
     <ul>
       <li>Trained on <strong>Python</strong> and <strong>Java technologies</strong>, gained practical knowledge of <strong>AGILE</strong> based enterprise applications.</li>
-      <li>Developed a feedback application on J2EE environment using React and Spring framework</li>
+      <li>Developed a feedback application in a J2EE environment using React and Spring framework.</li>
     </ul>
   </div>
 </details>
