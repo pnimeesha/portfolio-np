@@ -84,6 +84,7 @@
 </details>
 
 ## **Projects and Research**
+
 <details>
   <summary><h3>Master Thesis | <strong>Leveraging Generative Models for Cross-Domain Tabular Data Synthesis</strong> </h3></summary>
   <div>
