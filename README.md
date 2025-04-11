@@ -24,7 +24,7 @@
 - **Familiar:**
     - `Flask`, `OpenCV`, `Plotly`, `bokeh`
 - **Software Development Practices:** 
-    - `Agile`, `TDD`, `Pair Programming`
+    - Agile, TDD, Pair Programming
 
 
 ## **Work Experience**
