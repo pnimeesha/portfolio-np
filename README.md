@@ -89,7 +89,7 @@
   <div>
         <!-- | <a href="https://github.com/pnimeesha/python-cookiecutter-template" target="_blank">GitHub</a> -->
         <ul>
-          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>PyTorch</code>, <code>Generative AI</code>, <code>Anomaly Detection</code>, <code>Pandas</code>, <code>Numpy</code>, <code>MLFlow</code>, <code>Diffusion models</code>, <code>Outlier detection algorithms</code>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>PyTorch</code>, <code>Generative AI</code>, <code>Anomaly Detection</code>, <code>Pandas</code>, <code>Numpy</code>, <code>MLFlow</code>, <code>Diffusion models</code>, <code>Outlier detection algorithms</code></li>
           <li>Developed generative approaches leveraging <strong>Variational Autoencoders (VAEs)</strong> and <strong>diffusion models</strong> to generate privacy-preserving synthetic data for sensitive domains like finance and healthcare. </li>
           <li>Conducted extensive experiments on nine standard tabular datasets, demonstrating <strong>improved fidelity-privacy tradeoff</strong> and enabling the application of deep learning to private data. </li>
         </ul>
@@ -97,11 +97,11 @@
 </details>
 
 <details>
-  <summary><h3>Research Seminar | <strong>Deep Generative Models for Tabular data </strong> </h3></summary>
+  <summary><h3>Research Seminar | <strong>Deep Generative Models for Tabular Data</strong> </h3></summary>
   <div>
         <ul>
-          <li><strong>Technologies Used:</strong> <code>Latex</code>, <code>Tabular data</code>, <code>Diffusion models</code>, <code>GANs</code>
-          <li>The research in this seminar includes exploring and studying how Deep Generative Models like Generative Adversial Networks(GANs) and Variational AutoEncoders are used for tabular data generation. </li>
+          <li><strong>Technologies Used:</strong> <code>Latex</code>, <code>Tabular data</code>, <code>Diffusion models</code>, <code>GANs</code></li>
+          <li>The research in this seminar includes exploring and studying how Deep Generative Models like Generative Adversarial Networks (GANs) and Variational AutoEncoders are used for tabular data generation. </li>
         </ul>
   </div>
 </details>
@@ -110,28 +110,27 @@
   <summary><h3>Visual Analytics Project | <strong><a href="https://vast-challenge.github.io/2022/index.html" target="_blank">VAST challenge 2022</a> </strong> </h3></summary>
   <div>
         <ul>
-          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Plotly</code>, <code>Panel</code>, <code>matplotlib</code>
-          <li>Solved the VAST challenge 2022. Given the data of 1000 representative residents of city, the challenge is to describe the daily routines for some representative people, characterize the travel patterns to identify potential bottlenecks or hazards, and examine how these patterns change over time and seasons.  </li>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Plotly</code>, <code>Panel</code>, <code>matplotlib</code></li>
+          <li>Solved the VAST challenge 2022. Given the data of 1000 representative residents of a city, the challenge is to describe the daily routines for some representative people, characterize the travel patterns to identify potential bottlenecks or hazards, and examine how these patterns change over time and seasons.  </li>
         </ul>
   </div>
 </details>
 
 <details>
-  <summary><h3>Project at DFKI | <strong>Optimizing Reconstruction Error Columns(RECol) for Outlier Detection </strong> </h3></summary>
+  <summary><h3>Project at DFKI | <strong>Optimizing Reconstruction Error Columns (RECol) for Outlier Detection</strong> </h3></summary>
   <div>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>matplotlib</code>, <code>Outlier detection algorithms</code></li>
-          <li>RECol, a generic data pre-processing approach to <strong>generate additional columns</strong> (features) in a leave-one-out fashion. Adding RECols can to significantly improve model performance of <strong>unsupervised outlier detection model.<strong></li>
-          <li><strong>Reduced the runtime</strong> of the RECol experiments using various methods like dimensionality reduction technique and making the approach scalable for <strong>high dimensional data.</strong></li>
+          <li>RECol, a generic data pre-processing approach to <strong>generate additional columns</strong> (features) in a leave-one-out fashion. Adding RECols can significantly improve model performance of <strong>unsupervised outlier detection models.</strong></li>
+          <li><strong>Reduced the runtime</strong> of the RECol experiments using various methods like dimensionality reduction techniques and making the approach scalable for <strong>high-dimensional data.</strong></li>
         </ul>
   </div>
 </details>
 
-
 ## **Certifications/Courses**
 <div>
         <ul>
-          <li>Taking Python to Production: A Professional Onboarding Guide | <a href="https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/" target="_blank">Udemy</a> | Ongoing </strong>
+          <li>Taking Python to Production: A Professional Onboarding Guide | <a href="https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/" target="_blank">Udemy</a> | Ongoing </li>
           <li>Cloud Engineering for Python Developers | <a href="https://mlops-club.org/" target="_blank">MLops club</a> | Ongoing </li>
           <li>Data Engineering Bootcamp | <a href="https://www.dataexpert.io/" target="_blank">DataExpert.io</a> | <a href="https://www.dataexpert.io/certification/nimeesha110559147/free-bootcamp-completion" target="_blank">Certificate</a> | (Nov 2024 - Jan 2025)</li>
           <li>Neural Networks and Deep Learning | <a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning" target="_blank">Coursera</a> | <a href="https://www.coursera.org/account/accomplishments/certificate/HGC6ZZ8PBPZM" target="_blank">Certificate</a> | (Jan 2022)</li>
@@ -140,10 +139,10 @@
 </div>
 
 ## **Education**
-- MS in Computer Science (Major in Intelligence Systems and Data Visualization) (CGPA: 2.1) | <a href="https://rptu.de/" target="_blank">RPTU</a>, Kaiserslautern, Germany | 2021-2025 (Graduating)
+- MS in Computer Science (Major in Intelligent Systems and Data Visualization) (CGPA: 2.1) | <a href="https://rptu.de/" target="_blank">RPTU</a>, Kaiserslautern, Germany | 2021-2025 (Graduating)
 
 - BTech in Computer Science Engineering (CGPA: 9.2) | <a href="https://sreenidhi.edu.in/" target="_blank">SNIST</a>, Hyderabad, India | 2015-2019
 
 #### **More About Me**
-- I love upskilling and hence I like doing bootcamps and courses (Please let me know if you have any recommendations)
-- In my free time, I love biking, playing Lacrosse, reading books.
+- I love upskilling and hence I enjoy doing bootcamps and courses (Please let me know if you have any recommendations)
+- In my free time, I love biking, playing Lacrosse, and reading books.
