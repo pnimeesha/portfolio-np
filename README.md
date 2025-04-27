@@ -87,6 +87,20 @@
 ## **Projects and Research**
 
 <details>
+  <summary><h3><a href="https://github.com/pnimeesha/cloud-course-project" target="_blank">Cloud Engineering Project</a> </h3></summary>
+  <div>
+    <p>A cloud-native application demonstrating CRUD operations on AWS S3, serverless deployment with AWS Lambda, and observability best practices.</p>
+    <ul>
+      <li><strong>Technologies Used:</strong> <code>Python</code>, <code>FastAPI</code>, <code>AWS</code>, <code>S3</code>, <code>AWS Lambda</code>, <code>Docker</code></li>
+      <li>Used Boto3 stubs and mocked S3 for unit testing cloud interactions.</li>
+      <li>Developed and tested a FastAPI application that performs CRUD operations on AWS S3, integrating OpenAI endpoints.</li>
+      <li>Deployed the FastAPI application to AWS Lambda using Docker and configured API Gateway for routing.</li>
+      <li>Implemented logging, metrics collection, and tracing to monitor FastAPI application performance and behavior.</li>
+    </ul>
+  </div>
+</details>
+
+<details>
   <summary><h3>Master Thesis | <strong>Leveraging Generative Models for Cross-Domain Tabular Data Synthesis</strong> </h3></summary>
   <div>
         <!-- | <a href="https://github.com/pnimeesha/python-cookiecutter-template" target="_blank">GitHub</a> -->
