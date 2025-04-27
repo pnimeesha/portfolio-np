@@ -1,4 +1,4 @@
-# **Aspiring ML Engineer | Data Enthusiast | 2025 Grad**
+# **Aspiring AI/ML Engineer | Data Enthusiast | 2025 Grad**
 
 #### <a href="linkedin.com/in/nimeesha-pachipulusu-222bb3168" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/pnimeesha" target="_blank"><b>GitHub</b></a> | nimeesha186@gmail.com
 
