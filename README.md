@@ -7,24 +7,24 @@
 
 ## **About Me**
 
-- I’m graduating in <strong>Summer 2025</strong> and actively looking for full-time opportunities as a <strong>Data Scientist</strong> or <strong>ML/AI Engineer.</strong>
+- I’m graduating in <strong>Summer 2025</strong> and actively looking for full-time opportunities as a <strong>Data Scientist</strong>, <strong>ML/AI Engineer</strong> or <strong>Software Engineer</strong>
 - 🚀 **What I'm diving into these days:**
     - *Turning ML models into real-world applications (MLOps, deployment)*
-    - *Cloud Platforms – AWS and GCP for scalable ML*
+    - *Cloud Platforms – AWS for scalable ML*
     - *Data Engineering – Data modelling, building robust data pipelines & architectures*
     - *Sharpening my backend skills with Python and system design patterns* 
 
 ## **Skills**
-- **Programming Skills:** `Python`, `Java`
-- **Database:** `SQL`
-- **Technical Skills:**
-    - `Amazon Web Services(AWS)`, `Docker`, `FastAPI`, `AWS CDK`, `MLFlow`
-    - `PyTorch`, `Scikit-Learn`
-    - `SciPy`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Regex`
+- **Programming Languages:** `Python`, `Java`
+- **Backend Development:** `FastAPI`
+- **Database:** `PostgreSQL`
+- **Cloud & Deployment:** `AWS`, `Docker`
+- **Machine Learning & AI:** `PyTorch`, `Scikit-Learn`, `MLFlow`
+- **Data Analysis & Visualization:** `Pandas`, `NumPy`, `SciPy`, `Matplotlib`, `Seaborn`
+- **Technical Tools & Practices:** `REST APIs`, `Regex`, `CI/CD (GitHub Actions, CodeCov)`, `Agile`, `TDD`, `Pair Programming`
 - **Familiar:**
-    - `Flask`, `OpenCV`, `Plotly`, `bokeh`
-- **Software Development Practices:** 
-    - Agile, TDD, Pair Programming
+    - `Flask`, `OpenCV`, `Plotly`, `Bokeh`
+
 
 
 ## **Work Experience**
