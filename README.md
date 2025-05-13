@@ -87,7 +87,7 @@
 ## **Projects and Research**
 
 <details>
-  <summary><h3><a href="https://github.com/pnimeesha/cloud-course-project" target="_blank">Cloud Engineering Project</a> </h3></summary>
+  <summary><a href="https://github.com/pnimeesha/cloud-course-project" target="_blank"><strong>Cloud Engineering Project</strong></a></summary>
   <div>
     <p>A cloud-native application demonstrating CRUD operations on AWS S3, serverless deployment with AWS Lambda, and observability best practices.</p>
     <ul>
@@ -96,12 +96,15 @@
       <li>Developed and tested a FastAPI application that performs CRUD operations on AWS S3, integrating OpenAI endpoints.</li>
       <li>Deployed the FastAPI application to AWS Lambda using Docker and configured API Gateway for routing.</li>
       <li>Implemented logging, metrics collection, and tracing to monitor FastAPI application performance and behavior.</li>
+      <li>Used <strong>Ruff</strong> for linting and formatting to ensure clean and consistent code.</li>
+      <li>Set up <strong>pre-commit hooks</strong> to automate code style checks and prevent bad commits.</li>
+      <li>Managed dependencies and build configuration using a well-structured <code>pyproject.toml</code>, separating development and production requirements.</li>
     </ul>
   </div>
 </details>
 
 <details>
-  <summary><h3>Master Thesis | <strong>Leveraging Generative Models for Cross-Domain Tabular Data Synthesis</strong> </h3></summary>
+  <summary>Master Thesis | <strong>Leveraging Generative Models for Cross-Domain Tabular Data Synthesis</strong></summary>
   <div>
         <!-- | <a href="https://github.com/pnimeesha/python-cookiecutter-template" target="_blank">GitHub</a> -->
         <ul>
@@ -113,7 +116,7 @@
 </details>
 
 <details>
-  <summary><h3>Research Seminar | <strong>Deep Generative Models for Tabular Data</strong> </h3></summary>
+  <summary>Research Seminar | <strong>Deep Generative Models for Tabular Data</strong></summary>
   <div>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Latex</code>, <code>Tabular data</code>, <code>Diffusion models</code>, <code>GANs</code></li>
@@ -123,7 +126,7 @@
 </details>
 
 <details>
-  <summary><h3>Visual Analytics Project | <strong><a href="https://vast-challenge.github.io/2022/index.html" target="_blank">VAST challenge 2022</a> </strong> </h3></summary>
+  <summary>Visual Analytics Project | <strong><a href="https://vast-challenge.github.io/2022/index.html" target="_blank">VAST challenge 2022</a> </strong></summary>
   <div>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Plotly</code>, <code>Panel</code>, <code>matplotlib</code></li>
@@ -133,7 +136,7 @@
 </details>
 
 <details>
-  <summary><h3>Project at DFKI | <strong>Optimizing Reconstruction Error Columns (RECol) for Outlier Detection</strong> </h3></summary>
+  <summary>Project at DFKI | <strong>Optimizing Reconstruction Error Columns (RECol) for Outlier Detection</strong></summary>
   <div>
         <ul>
           <li><strong>Technologies Used:</strong> <code>Python</code>, <code>matplotlib</code>, <code>Outlier detection algorithms</code></li>
@@ -146,7 +149,8 @@
 ## **Certifications/Courses**
 <div>
         <ul>
-          <li>Taking Python to Production: A Professional Onboarding Guide | <a href="https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/" target="_blank">Udemy</a> | Ongoing </li>
+          <li>MLOps Zoomcamp | <a href="https://datatalks.club/">DataTalks Club</a></li>
+          <li>Taking Python to Production: A Professional Onboarding Guide | <a href="https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/" target="_blank">Udemy</a> | <a href = "https://www.udemy.com/certificate/UC-d0516698-8284-400f-a41c-27cc28f441bc/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">Certificate</a> </li>
           <li>Cloud Engineering for Python Developers | <a href="https://mlops-club.org/" target="_blank">MLops club</a> | Ongoing </li>
           <li>Data Engineering Bootcamp | <a href="https://www.dataexpert.io/" target="_blank">DataExpert.io</a> | <a href="https://www.dataexpert.io/certification/nimeesha110559147/free-bootcamp-completion" target="_blank">Certificate</a> | (Nov 2024 - Jan 2025)</li>
           <li>Neural Networks and Deep Learning | <a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning" target="_blank">Coursera</a> | <a href="https://www.coursera.org/account/accomplishments/certificate/HGC6ZZ8PBPZM" target="_blank">Certificate</a> | (Jan 2022)</li>
