@@ -90,9 +90,9 @@
   <div>
     <p>These are a few projects exploring practical applications of LLMs, embeddings, and responsible AI concepts:</p>
       <ul>
-        <li>Explored prompt engineering techniques and how they can be used to build LLM-enabled applications using LangChain for document-based question answering.</li>
-        <li>Fine-tuned a language model for domain-specific content creation, focusing on structured tasks such as blog writing and job description generation.</li>
-        <li>Analyzed open-ended survey responses using text embeddings (e.g., Sentence-BERT) to extract insights and identify response clusters.</li>
+        <li><strong>Prompt Engineering & LLM Application with LangChain: </strong>Explored prompt engineering techniques and how they can be used to build LLM-enabled applications using LangChain for document-based question answering.</li>
+        <li><strong>Fine-Tuning LLMs</strong>for domain-specific content creation, focusing on structured tasks such as blog writing and job description generation.</li>
+        <li><strong>Survey Response Analysis Using Text Embeddings: </strong>Analyzed open-ended survey responses using text embeddings (e.g., Sentence-BERT) to extract insights and identify response clusters.</li>
         <li>Fine-tuned text embeddings to generate synthetic queries for creating labeled training data, particularly for AI-powered job search and recommendation systems.</li>
       </ul>
   </div>
@@ -162,9 +162,9 @@
 ## **Certifications/Courses**
 <div>
         <ul>
-          <li>MLOps Zoomcamp | <a href="https://datatalks.club/">DataTalks Club</a></li>
-          <li>Taking Python to Production: A Professional Onboarding Guide | <a href="https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/" target="_blank">Udemy</a> | <a href = "https://www.udemy.com/certificate/UC-d0516698-8284-400f-a41c-27cc28f441bc/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">Certificate</a> </li>
+          <li>MLOps Zoomcamp | <a href="https://datatalks.club/">DataTalks Club | Ongoing</a></li>
           <li>Cloud Engineering for Python Developers | <a href="https://mlops-club.org/" target="_blank">MLops club</a> | Ongoing </li>
+          <li>Taking Python to Production: A Professional Onboarding Guide | <a href="https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/" target="_blank">Udemy</a> | <a href = "https://www.udemy.com/certificate/UC-d0516698-8284-400f-a41c-27cc28f441bc/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">Certificate</a> </li>
           <li>Data Engineering Bootcamp | <a href="https://www.dataexpert.io/" target="_blank">DataExpert.io</a> | <a href="https://www.dataexpert.io/certification/nimeesha110559147/free-bootcamp-completion" target="_blank">Certificate</a> | (Nov 2024 - Jan 2025)</li>
           <li>Neural Networks and Deep Learning | <a href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning" target="_blank">Coursera</a> | <a href="https://www.coursera.org/account/accomplishments/certificate/HGC6ZZ8PBPZM" target="_blank">Certificate</a> | (Jan 2022)</li>
           <li>Technology Entrepreneurship Programme (TEP) | Indian School of Business, Hyderabad, India | (2017 – 2019)</li>
