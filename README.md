@@ -85,6 +85,19 @@
 </details>
 
 ## **Projects and Research**
+<details>
+  <summary><a href="https://github.com/pnimeesha/AI_projects"><strong>AI projects</strong></a></summary>
+  <div>
+    <p>These are a few projects exploring practical applications of LLMs, embeddings, and responsible AI concepts:</p>
+      <ul>
+        <li>Explored prompt engineering techniques and how they can be used to build LLM-enabled applications using LangChain for document-based question answering.</li>
+        <li>Fine-tuned a language model for domain-specific content creation, focusing on structured tasks such as blog writing and job description generation.</li>
+        <li>Analyzed open-ended survey responses using text embeddings (e.g., Sentence-BERT) to extract insights and identify response clusters.</li>
+        <li>Fine-tuned text embeddings to generate synthetic queries for creating labeled training data, particularly for AI-powered job search and recommendation systems.</li>
+      </ul>
+  </div>
+</details>
+
 
 <details>
   <summary><a href="https://github.com/pnimeesha/cloud-course-project" target="_blank"><strong>Cloud Engineering Project</strong></a></summary>
