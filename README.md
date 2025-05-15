@@ -162,7 +162,7 @@
 ## **Certifications/Courses**
 <div>
         <ul>
-          <li>MLOps Zoomcamp | <a href="https://datatalks.club/">DataTalks Club | Ongoing</a></li>
+          <li>MLOps Zoomcamp | <a href="https://datatalks.club/">DataTalks Club</a> | Ongoing</li>
           <li>Cloud Engineering for Python Developers | <a href="https://mlops-club.org/" target="_blank">MLops club</a> | Ongoing </li>
           <li>Taking Python to Production: A Professional Onboarding Guide | <a href="https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/" target="_blank">Udemy</a> | <a href = "https://www.udemy.com/certificate/UC-d0516698-8284-400f-a41c-27cc28f441bc/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">Certificate</a> </li>
           <li>Data Engineering Bootcamp | <a href="https://www.dataexpert.io/" target="_blank">DataExpert.io</a> | <a href="https://www.dataexpert.io/certification/nimeesha110559147/free-bootcamp-completion" target="_blank">Certificate</a> | (Nov 2024 - Jan 2025)</li>
