@@ -15,6 +15,8 @@
     - *Data Engineering – Data modelling, building robust data pipelines & architectures*
     - *Sharpening my backend skills with Python and system design patterns* 
 
+* **
+
 ## **Skills**
 - **Programming Languages:** `Python`, `Java`
 - **Backend Development:** `FastAPI`
@@ -26,7 +28,7 @@
 - **Familiar:**
     - `Flask`, `OpenCV`, `Plotly`, `Bokeh`
 
-
+* **
 
 ## **Work Experience**
 
@@ -84,6 +86,8 @@
     </ul>
   </div>
 </details>
+
+* **
 
 ## **Projects and Research**
 <details>
@@ -160,6 +164,8 @@
   </div>
 </details>
 
+* **
+
 ## **Certifications/Courses**
 <div>
         <ul>
@@ -172,10 +178,14 @@
         </ul>
 </div>
 
+* **
+
 ## **Education**
 - MS in Computer Science (Major in Intelligent Systems and Data Visualization) (CGPA: 2.1) | <a href="https://rptu.de/" target="_blank">RPTU</a>, Kaiserslautern, Germany | 2021-2025 (Graduating)
 
 - BTech in Computer Science Engineering (CGPA: 9.2) | <a href="https://sreenidhi.edu.in/" target="_blank">SNIST</a>, Hyderabad, India | 2015-2019
+
+* **
 
 #### **More About Me**
 - I love upskilling and hence I enjoy doing bootcamps and courses (Please let me know if you have any recommendations)
