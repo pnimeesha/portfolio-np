@@ -1,4 +1,4 @@
-# **Aspiring AI/ML Engineer | Data Enthusiast | 2025 Grad**
+# **Software Developer | Data Enthusiast | 2025 Grad**
 
 #### <a href="linkedin.com/in/nimeesha-pachipulusu-222bb3168" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/pnimeesha" target="_blank"><b>GitHub</b></a> | nimeesha186@gmail.com
 
@@ -7,7 +7,8 @@
 
 ## **About Me**
 
-- I’m graduating in <strong>Summer 2025</strong> and actively looking for full-time opportunities as a <strong>Data Scientist</strong>, <strong>ML/AI Engineer</strong> or <strong>Software Engineer</strong>
+- Full-time Software Developer (Backend development in Go)
+- Master's degree in <strong>Computer Science</strong> from <strong>RPTU Kaiserslautern</strong> and looking for opportunities as a <strong>Data Scientist</strong> or <strong>ML/AI Engineer</strong>
 - 🚀 **What I'm diving into these days:**
     - *Hands-on with LLMs and AI agents*
     - *Turning ML models into real-world applications (MLOps, deployment)*
@@ -33,7 +34,18 @@
 ## **Work Experience**
 
 <details>
-  <summary><h3><a href="https://www.mpg.de/914864/softwaresysteme-kaiserslautern" target="_blank">MPI-SWS</a> | <strong>Machine Learning Researcher - Student Assistant</strong> | <strong>Oct 2024 – Present</strong></h3></summary>
+  <summary><h3><a href="https://www.wendeware.com/" target="_blank">Wendeware AG</a> | <strong>Software Developer</strong> | <strong>Aug 2025 – Present</strong></h3></summary>
+  <div>
+    <p><strong>Skills:</strong> <code>Go</code>, <code>Concurrency (goroutines, channels)</code>, <code>Docker</code>, <code>Linux-based development</code>, <code>Jira</code></p>
+    <ul>
+      <li>Develop and maintain driver backends in Go for the Amperix energy management device, focusing on reliability, performance, and low-level system integration.</li>
+      <li>Work closely with hardware and backend teams to design, test, and debug production-grade services used in real-world energy systems.</li>
+    </ul>
+  </div>
+</details>
+
+<details>
+  <summary><h3><a href="https://www.mpg.de/914864/softwaresysteme-kaiserslautern" target="_blank">MPI-SWS</a> | <strong>Machine Learning Researcher - Student Assistant</strong> | <strong>Oct 2024 – April 2025</strong></h3></summary>
   <div>
     <p><strong>Skills:</strong> <code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>Scipy</code>, <code>scikit-learn</code>, <code>Gaussian Process</code></p>
     <ul>
@@ -181,7 +193,7 @@
 * **
 
 ## **Education**
-- MS in Computer Science (Major in Intelligent Systems and Data Visualization) (CGPA: 2.1) | <a href="https://rptu.de/" target="_blank">RPTU</a>, Kaiserslautern, Germany | 2021-2025 (Graduating)
+- MS in Computer Science (Major in Intelligent Systems and Data Visualization) (CGPA: 2.1) | <a href="https://rptu.de/" target="_blank">RPTU</a>, Kaiserslautern, Germany | 2021-2025
 
 - BTech in Computer Science Engineering (CGPA: 9.2) | <a href="https://sreenidhi.edu.in/" target="_blank">SNIST</a>, Hyderabad, India | 2015-2019
 
